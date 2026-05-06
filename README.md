@@ -4,27 +4,17 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Compass-w;Full-Stack+Developer;Make+it+work+,+make+it+right+,+make+it+fast;Building+things+from+0+to+1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Compass-w;Full-Stack+Developer;Make+it+work+make+it+right+make+it+fast;Building+things+from+0+to+1" alt="Typing SVG" />
 
   <br />
 
   <img src="https://komarev.com/ghpvc/?username=Compass-w&label=Profile%20Views&color=38bdf8&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/SWJTU%20Leeds-Computer%20Science-22c55e?style=flat" alt="Computer Science" />
+  <img src="https://img.shields.io/badge/SWJTU&%20Leeds-Computer%20Science-22c55e?style=flat" alt="Computer Science" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20DevOps%20%7C%20AI-ef4444?style=flat" alt="Focus areas" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### The World
-
-</div>
-
-```txt
-"Make it work, make it right, make it fast."
-```
 
 ## About Me
 
